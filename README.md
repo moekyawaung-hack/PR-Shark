@@ -16,7 +16,7 @@ Team:
 - 1 QA
 - 1 product manager
 
-Repositories:
+Repositories
 - `frontend-app`
 - `backend-api`
 - `infra`
