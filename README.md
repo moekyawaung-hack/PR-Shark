@@ -26,8 +26,7 @@ Goals:
 - Manage sprint work
 - Track bugs/features
 - Maintain roadmap visibility
-- Keep planning close to code
-
+- Keep planning close to cod
 ---
 
 ## Recommended project structure
